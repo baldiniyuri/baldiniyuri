@@ -1,3 +1,7 @@
+![baldiniyuri GitHub stats](https://github-readme-stats.vercel.app/api?username=baldiniyuri&show_icons=true&theme=radical)
+
+
+
 ### Hi there 👋
 
 <!--
