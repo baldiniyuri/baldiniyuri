@@ -1,4 +1,6 @@
-![baldiniyuri GitHub stats](https://github-readme-stats.vercel.app/api?username=baldiniyuri&show_icons=true&theme=dark)
+![baldiniyuri GitHub stats](https://github-readme-stats.vercel.app/api?username=baldiniyuri&count_private=true&show_icons=true&theme=dark)
+
+
 
 
 
