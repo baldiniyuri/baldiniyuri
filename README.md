@@ -1,8 +1,6 @@
-![baldiniyuri GitHub stats](https://github-readme-stats.vercel.app/api?username=baldiniyuri&show_icons=true&theme=radical)
+![baldiniyuri GitHub stats](https://github-readme-stats.vercel.app/api?username=baldiniyuri&show_icons=true&theme=dark)
 
 
-
-### Hi there 👋
 
 <!--
 **baldiniyuri/baldiniyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
