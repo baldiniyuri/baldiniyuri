@@ -1,6 +1,6 @@
 Yuri Baldini
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baldiniyuri)](https://github.com/baldiniyuri&theme=react-dark/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baldiniyuri&theme=react-dark)](https://github.com/baldiniyuri/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldiniyuri&layout=compact)
 
 
