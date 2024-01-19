@@ -1,6 +1,6 @@
 Yuri Baldini
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[your-username]&theme=xcode)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=baldiniyuri&theme=xcode)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldiniyuri&layout=compact)
 
 
