@@ -3,6 +3,10 @@ Yuri Baldini
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=baldiniyuri&theme=react-dark)](https://github.com/baldiniyuri/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldiniyuri&layout=compact)
 
+____________________________________________________________________________________________________________________________________
+
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg "Python Logo")
+
 
 <!--
 **baldiniyuri/baldiniyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
