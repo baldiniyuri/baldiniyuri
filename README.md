@@ -5,7 +5,8 @@ Yuri Baldini
 
 ____________________________________________________________________________________________________________________________________
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50"/>
+
 
 
        
