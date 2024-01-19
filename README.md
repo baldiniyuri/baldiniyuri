@@ -5,11 +5,10 @@ Yuri Baldini
 
 ____________________________________________________________________________________________________________________________________
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css "Python Logo")
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50"/>
 
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+       
 <!--
 **baldiniyuri/baldiniyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
